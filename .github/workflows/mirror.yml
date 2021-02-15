@@ -24,7 +24,7 @@ jobs:
           cd ..
         }
         mirror dyrnq centos7-docker-flanneld-consul-example
-        #mirror dyrnq linux-command
+        mirror dyrnq install-docker
         #mirror dyrnq hotkeys
         #mirror dyrnq oscnews
         #mirror dyrnq iNotify
