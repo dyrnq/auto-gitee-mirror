@@ -25,7 +25,7 @@ jobs:
         }
         mirror dyrnq centos7-docker-flanneld-consul-example
         mirror dyrnq install-docker
-        #mirror dyrnq hotkeys
+        mirror dyrnq doc.mhgoi.net
         #mirror dyrnq oscnews
         #mirror dyrnq iNotify
         #mirror dyrnq sgo
